@@ -1,4 +1,9 @@
-## Hi there 👋
+💬 **Me**: 
+
+⭐ **Certifications**: PORP
+
+## 👨‍💻 Dev
+[![](https://skillicons.dev/icons?i=ansible,bash,c,docker,git,github,latex,linux,obsidian,powershell,py,vim,vscode,windows)](https://skillicons.dev)
 
 <!--
 **Wemubis/Wemubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
