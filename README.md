@@ -1,6 +1,6 @@
 💬 **Me**: 
 
-⭐ **Certifications**: PORP
+⭐ **Certifications**: `PORP`
 
 ## 👨‍💻 Skills
 [![](https://skillicons.dev/icons?i=ansible,bash,c,docker,git,github,latex,linux,obsidian,powershell,py,vim,vscode)](https://skillicons.dev)
