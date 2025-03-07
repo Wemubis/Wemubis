@@ -3,7 +3,7 @@
 ⭐ **Certifications**: `PORP`
 
 ## 👨‍💻 Skills
-[![](https://skillicons.dev/icons?i=ansible,bash,c,docker,git,github,latex,linux,obsidian,powershell,py,vim,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ansible,bash,c,cmake,docker,git,github,latex,linux,powershell,py,vim,vscode)](https://skillicons.dev)
 
 <!--
 **Wemubis/Wemubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
