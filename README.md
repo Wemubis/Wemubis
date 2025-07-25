@@ -1,6 +1,6 @@
 💬 **Me**: Cybersecurity student specializing in networking, and OSINT, with a strong interest in threat intelligence.
 
-⭐ **Certifications**: `Practical OSINT Research Professional - PORP (TCM Security)` | `Digital Investigation Techniques - Advanced (AFP)`
+⭐ **Certifications**: `PORP (TCM Security)` | `Digital Investigation Techniques - Advanced (AFP)`
 
 ## 👨‍💻 Skills
 [![](https://skillicons.dev/icons?i=ansible,bash,c,cmake,docker,git,latex,linux,powershell,py,vim,vscode)](https://skillicons.dev)
