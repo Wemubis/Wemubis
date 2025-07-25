@@ -1,4 +1,4 @@
-💬 **Me**: Cybersecurity student specializing in networking, and OSINT, with a strong interest in threat intelligence and physical pentesting.
+💬 **Me**: Cybersecurity student specializing in networking, and OSINT, with a strong interest in threat intelligence.
 
 ⭐ **Certifications**: `PORP (TCM Security)`
 
