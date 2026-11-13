@@ -3,5 +3,5 @@
 ⭐ **Certifications**: `PORP (TCM Security)`
 
 ## 👨‍💻 Skills
-[![](https://skillicons.dev/icons?i=ansible,bash,c,cmake,docker,git,latex,linux,powershell,py,vim,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ansible,bash,c,cmake,docker,git,latex,linux,powershell,prometheus,py,vim,vscode)](https://skillicons.dev)
 
